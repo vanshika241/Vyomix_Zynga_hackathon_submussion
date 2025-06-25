@@ -1,7 +1,7 @@
 
 # FaceOfficial Backend
 
-This is the **Flask-based backend**  – an AI-powered Age & Identity Verification System that processes Aadhaar and selfie images using OCR, face detection, and facial matching.
+This is the **Flask-based backend**  – an AI-powered Age & Identity Verification System that processes Aadhaar and selfie images using OCR, face detection, and facial matching..
 
 ---
 
